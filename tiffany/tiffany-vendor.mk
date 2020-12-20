@@ -350,4 +350,5 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     libts_detected_face_hal \
-    libts_face_beautify_hal
+    libts_face_beautify_hal \
+    android.hardware.biometrics.fingerprint@2.1-service
