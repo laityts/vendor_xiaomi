@@ -610,8 +610,6 @@ PRODUCT_PACKAGES += \
     android.hardware.gnss@2.1-service-qti \
     manifest_android.hardware.drm@1.3-service.widevine \
     vendor.qti.gnss@4.0-service \
-    vendor.lineage.livedisplay@2.0-service \
-    vendor.lineage.touch@1.0-service.xiaomi_8953 \
     android.hardware.light@2.0-service \
     android.hardware.ir@1.0-service \
     chargeonlymode
